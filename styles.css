@@ -62,7 +62,7 @@ background-image: linear-gradient(to right,#8750f7,#2a1454);
     height: 3.5rem;
     width: 3.5rem;
     border-radius: 150px;
-    background-image: linear-gradient(to right,#8750f7,#2a1454);
+    background: linear-gradient(135deg, #0d1120 0%, #3a4b8a 43%, #0d1120 100%);
 box-shadow:  10px 10px 20px #828080,
              -10px -10px 20px #000000;
   }
