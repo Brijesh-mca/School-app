@@ -8,9 +8,6 @@
 body{
   background-color: #b2c0cc;
 }
-.bgcolor{
-   
-}
 .myNav{
     height: 2.6rem;
  
@@ -24,6 +21,11 @@ body{
     display: flex;
     justify-content: start !important;
     align-items: center;
+}
+
+a{
+
+  text-decoration: none !important;
 }
 .homebar{
     display: flex;
@@ -42,7 +44,7 @@ background-image: linear-gradient(to right,#8750f7,#2a1454);
 .bgblue {
     background: linear-gradient(135deg, #fffffff5, #3a4b8a, #ffffff98);
     padding: 1px;
-    border-radius: 20%;
+    border-radius: 30px;
     box-shadow: 0px 1rem 1.5rem -0.9rem #e8e8e8e1;
     max-width: 300px;
   }
@@ -52,7 +54,7 @@ background-image: linear-gradient(to right,#8750f7,#2a1454);
     color: #ebeced;
     background: linear-gradient(135deg, #0d1120 0%, #3a4b8a 43%, #0d1120 100%);
     font-weight: 600;
-    border-radius: 40%;
+    border-radius: 30px !important;
   }
   .card img{
     border-radius: 20%;
